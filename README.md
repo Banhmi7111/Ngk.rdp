@@ -1,4 +1,4 @@
-# RDE
+jk# RDE
 # Reverse Windows RDP for GitHub Actions
 Enable RDP access on GitHub Actions VMs for general use.
 
@@ -12,7 +12,7 @@ Enable RDP access on GitHub Actions VMs for general use.
 Name: NGROK_AUTH_TOKEN
 Example Value: (obviously you insert the ngrok auth token of your account that you obtained in step 1)
 
-Name: RDP_PASSWORD
+Name: RDP_PASnSWORD
 Example Value: (you insert here the password that you will use for connect via RDP)
 ```
 
